@@ -1,10 +1,10 @@
-package com.lhh.quzrtz_demo;
+package com.lhh.quartz_demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuzrtzDemoApplicationTests {
+class QuartzDemoApplicationTests {
 
     @Test
     void contextLoads() {
